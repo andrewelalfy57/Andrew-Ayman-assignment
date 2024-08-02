@@ -8,3 +8,5 @@ Also run the following commands.
 npm install @mui/material @emotion/react @emotion/styled
 npm install tesseract.js
 npm install axios
+To test the project please use the ID card given with the project.
+
